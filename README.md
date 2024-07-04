@@ -400,3 +400,261 @@ LEC #	TOPICS	READINGS
 
 -----
 
+## MIT 6.046J Design and Analysis of Algorithms, Spring 2015
+
+MIT OpenCourseWare
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
+
+
+1
+
+1:23:35
+
+1. Course Overview, Interval Scheduling
+
+
+
+2
+
+1:20:35
+
+2. Divide & Conquer: Convex Hull, Median Finding
+
+
+3
+
+53:46
+
+R1. Matrix Multiplication and the Master Theorem
+
+
+4
+
+1:20:52
+
+3. Divide & Conquer: FFT
+
+
+5
+
+30:45
+
+R2. 2-3 Trees and B-Trees
+
+
+6
+
+1:20:15
+
+4. Divide & Conquer: van Emde Boas Trees
+
+
+7
+
+1:15:53
+
+5. Amortization: Amortized Analysis
+
+
+8
+
+1:21:52
+
+6. Randomization: Matrix Multiply, Quicksort
+
+
+9
+
+39:30
+
+R4. Randomized Select and Randomized Quicksort
+
+
+10
+
+1:20:56
+
+7. Randomization: Skip Lists
+
+
+11
+
+1:21:51
+
+8. Randomization: Universal & Perfect Hashing
+
+
+12
+
+52:03
+
+R5. Dynamic Programming
+
+
+13
+
+1:24:34
+
+9. Augmentation: Range Trees
+
+
+14
+
+1:20:08
+
+10. Dynamic Programming: Advanced DP
+
+
+15
+
+1:21:49
+
+11. Dynamic Programming: All-Pairs Shortest Paths
+
+
+16
+
+1:22:10
+
+12. Greedy Algorithms: Minimum Spanning Tree
+
+
+17
+
+22:24
+
+R6. Greedy Algorithms
+
+
+18
+
+1:22:58
+
+13. Incremental Improvement: Max Flow, Min Cut
+
+
+19
+
+1:22:32
+
+14. Incremental Improvement: Matching
+
+
+20
+
+51:12
+
+R7. Network Flow and Matching
+
+
+21
+
+1:22:27
+
+15. Linear Programming: LP, reductions, Simplex
+
+22
+
+1:25:25
+
+16. Complexity: P, NP, NP-completeness, Reductions
+
+
+23
+
+45:47
+
+R8. NP-Complete Problems
+
+
+24
+
+1:21:08
+
+17. Complexity: Approximation Algorithms
+
+
+25
+
+1:17:43
+
+18. Complexity: Fixed-Parameter Algorithms
+
+
+26
+
+31:59
+
+R9. Approximation Algorithms: Traveling Salesman Problem
+
+
+27
+
+1:17:34
+
+19. Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees
+
+
+28
+
+1:12:03
+
+20. Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees
+
+
+29
+
+50:19
+
+R10. Distributed Algorithms
+
+
+30
+
+1:22:01
+
+21. Cryptography: Hash Functions
+
+
+31
+
+1:24:15
+
+22. Cryptography: Encryption
+
+
+32
+
+49:30
+
+R11. Cryptography: More Primitives
+
+
+33
+
+1:20:28
+
+23. Cache-Oblivious Algorithms: Medians & Matrices
+
+
+34
+
+1:17:41
+
+24. Cache-Oblivious Algorithms: Searching & Sorting
+
+
+-----
+
+
+
+
+
+
+
+
+
+
+
+

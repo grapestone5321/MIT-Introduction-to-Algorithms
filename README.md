@@ -333,7 +333,7 @@ Recitation 24: Final Exam Review
 ## Readings
 Readings refer to chapters and/or sections of the course textbook:
 
-Buy at MIT Press Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
+Buy at MIT Press Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. **Introduction to Algorithms. 3rd ed. MIT Press**, 2009. ISBN: 9780262033848.
 
 LEC #	TOPICS	READINGS
 

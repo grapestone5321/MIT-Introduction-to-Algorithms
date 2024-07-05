@@ -5,6 +5,8 @@
 
 - MIT 6.046J Design and Analysis of Algorithms, Spring 2015
 
+- MIT 6.042J Mathematics For Computer Science, Fall 2010
+  
 -----
 
 ## MIT 6.006 Introduction to Algorithms, Fall 2011
@@ -652,14 +654,166 @@ R11. Cryptography: More Primitives
 
 -----
 
+## MIT 6.042J Mathematics for Computer Science, Fall 2010
+
+MIT OpenCourseWare
+
+https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+
+https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/
+
+
+1
+
+44:09
+
+Lec 1
 
 
 
+2
+
+1:19:25
+
+Lec 2 
+
+3
+
+1:22:00
+
+Lec 3 
+
+4
+
+1:20:25
+
+Lec 4 
+
+5
+
+1:18:45
+
+Lec 5 
+
+6
+
+1:22:51
+
+Lec 6 
+
+7
+
+1:22:41
+
+Lec 7 
+
+8
+
+1:23:26
+
+Lec 8 
+
+9
+
+1:23:25
+
+Lec 9 
+
+10
+
+1:22:50
+
+Lec 10 
+
+11
+
+1:04:00
+
+Lec 11 
+12
+
+1:18:22
+
+Lec 12 
+
+13
+
+1:23:40
+
+Lec 13 
+
+14
+
+1:22:46
+
+Lec 14 
+
+15
+
+1:18:20
+
+Lec 15 
+
+16
+
+1:20:02
+
+Lec 16 
+
+17
+
+1:25:24
+
+Lec 17 
+
+18
+
+1:23:56
+
+Lec 18 
+
+19
+
+1:21:46
+
+Lec 19 
+
+20
+
+1:22:02
+
+Lec 20 
+
+21
+
+1:22:59
+
+Lec 21 
+
+22
+
+1:23:54
+
+Lec 22 
+
+23
+
+1:23:44
+
+Lec 23 
+
+24
+
+1:23:22
+
+Lec 24 
+
+25
+
+1:17:53
+
+Lec 25 
 
 
-
-
-
-
-
+-----
 

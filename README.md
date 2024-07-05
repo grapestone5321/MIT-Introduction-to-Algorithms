@@ -1,10 +1,11 @@
 # MIT-Introduction-to-Algorithms
-MIT-Introduction-to-Algorithms
+
 
 - MIT 6.006 Introduction to Algorithms, Fall 2011
 
 - MIT 6.046J Design and Analysis of Algorithms, Spring 2015
 
+-----
 
 ## MIT 6.006 Introduction to Algorithms, Fall 2011
 MIT OpenCourseWare
